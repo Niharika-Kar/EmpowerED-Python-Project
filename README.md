@@ -90,27 +90,28 @@ The features of the project are as follows:
   
 4. Generate reports on volunteer activities.
 # System Requirements
-1. Hardware requirements:
+• Hardware requirements:
    
-  • Pentium IV processor or higher
+  1. Pentium IV processor or higher
   
-  • 128 MB RAM or higher
+  2. 128 MB RAM or higher
   
-  • 40 GB hard disk or higher
+  3. 40 GB hard disk or higher
   
-3. Software requirements:
+• Software requirements:
    
-  • Windows 10 Operating System
+  1. Windows 10 Operating System
 
-  • Python Interpreter
+  2. Python Interpreter
   
-  • Pycharm IDE
+  3. Pycharm IDE
   
-  • MySQL workbench
+  4. MySQL workbench
   
 # Future Scope and Limitations
 The proposed project is just a very basic database to store and display donor and volunteer 
 information. There are several limitations in this project:
+
 1. The interface is not graphical.
 2. The reports generated have limited information.
 3. There is no means of user authentication and no provision of data security.
