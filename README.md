@@ -67,6 +67,7 @@ The outputs of the project would be as follows:
 • Display report on total donation
 # Project Features
 The features of the project are as follows:
+
 1. Donor Management:
    
 • Allow administrators to add, edit, and delete donor information (name, contact details, 
