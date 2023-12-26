@@ -9,12 +9,18 @@ supportive and sustainable ecosystem that empowers underprivileged schools to pr
 better education while giving donors and volunteers the opportunity to make a meaningful 
 impact on the lives of underserved students. 
 The primary objectives of the project are:
+
 • Empower underprivileged schools by maintaining a comprehensive list of donors and 
 volunteers by developing software which is user friendly,simple, fast, and cost effective.
+
 • To allow nonprofit organizations to manage their donors and volunteers efficiently. 
+
 • To include features for adding, updating, and deleting donor and volunteer records.
+
 • To retrieve these details when required, and manipulate them meaningfully.
+
 • Facilitate meaningful volunteer engagement.
+
 # Inputs and Outputs of the Project
 The inputs of the project would be as follows:
 
@@ -24,8 +30,11 @@ The inputs of the project would be as follows:
   3. E-mail ID
   4. Address
   5. Donation amount
+
 • Editing donor details
+
 • Deleting donor details
+
 • Adding of new volunteer details such as 
   1. Name
   2. Date of Birth
@@ -33,15 +42,20 @@ The inputs of the project would be as follows:
   4. E-mail ID
   5. Address
   6. Hours/Week of engagement as volunteer
+
 • Editing volunteer details
+
 • Deleting volunteer details
+
 The outputs of the project would be as follows:
+
 • Display donor details such as 
   1. Name
   2. Phone number
   3. E-mail ID
   4. Address
   5. Donation amount
+     
 • Display volunteer details such as 
   1. Name
   2. Date of Birth
@@ -49,6 +63,7 @@ The outputs of the project would be as follows:
   4. E-mail ID
   5. Address
   6. Hours/Week of engagement as volunteer
+     
 • Display report on total donation
 # Project Features
 The features of the project are as follows:
