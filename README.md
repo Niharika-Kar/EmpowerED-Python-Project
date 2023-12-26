@@ -11,7 +11,7 @@ impact on the lives of underserved students.
 The primary objectives of the project are:
 
 • Empower underprivileged schools by maintaining a comprehensive list of donors and 
-volunteers by developing software which is user friendly,simple, fast, and cost effective.
+volunteers by developing software which is user friendly, simple, fast, and cost effective.
 
 • To allow nonprofit organizations to manage their donors and volunteers efficiently. 
 
@@ -68,27 +68,45 @@ The outputs of the project would be as follows:
 # Project Features
 The features of the project are as follows:
 1. Donor Management:
+   
   • Allow administrators to add, edit, and delete donor information (name, contact details, 
   donation history).
+  
   • View a list of all donors.
+  
   • Search for donors by name or other criteria.
+  
   • Generate reports on donations received. 
-2. Volunteer Management:
+  
+3. Volunteer Management:
+   
   • Allow administrators to add, edit, and delete volunteer information (name, contact 
   details, volunteer history).
+  
   • View a list of all volunteers.
+  
   • Search for volunteers by name or other criteria.
+  
   • Generate reports on volunteer activities.
 # System Requirements
 1. Hardware requirements:
+   
   • Pentium IV processor or higher
+  
   • 128 MB RAM or higher
+  
   • 40 GB hard disk or higher
-2. Software requirements:
+  
+3. Software requirements:
+   
   • Windows 10 Operating System
+
   • Python Interpreter
+  
   • Pycharm IDE
+  
   • MySQL workbench
+  
 # Future Scope and Limitations
 The proposed project is just a very basic database to store and display donor and volunteer 
 information. There are several limitations in this project:
