@@ -69,25 +69,25 @@ The outputs of the project would be as follows:
 The features of the project are as follows:
 1. Donor Management:
    
-  • Allow administrators to add, edit, and delete donor information (name, contact details, 
+• Allow administrators to add, edit, and delete donor information (name, contact details, 
   donation history).
   
-  • View a list of all donors.
+• View a list of all donors.
   
-  • Search for donors by name or other criteria.
+• Search for donors by name or other criteria.
   
-  • Generate reports on donations received. 
+• Generate reports on donations received. 
   
-3. Volunteer Management:
+2. Volunteer Management:
    
-  • Allow administrators to add, edit, and delete volunteer information (name, contact 
+• Allow administrators to add, edit, and delete volunteer information (name, contact 
   details, volunteer history).
   
-  • View a list of all volunteers.
+• View a list of all volunteers.
   
-  • Search for volunteers by name or other criteria.
+• Search for volunteers by name or other criteria.
   
-  • Generate reports on volunteer activities.
+• Generate reports on volunteer activities.
 # System Requirements
 1. Hardware requirements:
    
