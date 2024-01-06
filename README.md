@@ -22,9 +22,9 @@ volunteers by developing software which is user friendly, simple, fast, and cost
 • Facilitate meaningful volunteer engagement.
 
 # Inputs and Outputs of the Project
-The inputs of the project would be as follows:
+'The inputs of the project would be as follows:'
 
-• Adding of new donor details such as 
+• Adding of new donor details such as: 
   1. Name
   2. Phone number
   3. E-mail ID
@@ -47,7 +47,7 @@ The inputs of the project would be as follows:
 
 • Deleting volunteer details
 
-The outputs of the project would be as follows:
+'The outputs of the project would be as follows:'
 
 • Display donor details such as 
   1. Name
